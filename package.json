@@ -1,0 +1,28 @@
+{
+  "name": "calc2020",
+  "version": "1.0.0",
+  "description": "Calculadora ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbotia/calc2020.git"
+  },
+  "keywords": [
+    "suma",
+    "resta",
+    "mult",
+    "div"
+  ],
+  "author": "Diego Botia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbotia/calc2020/issues"
+  },
+  "homepage": "https://github.com/dbotia/calc2020#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
