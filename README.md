@@ -1,6 +1,12 @@
 # calc2020
 
 Travis:  [![Build Status](https://travis-ci.org/dbotia/calc2020.svg?branch=master)](https://travis-ci.org/dbotia/calc2020)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=calc2020&metric=bugs)](https://sonarcloud.io/dashboard?id=calc2020)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=calc2020&metric=coverage)](https://sonarcloud.io/dashboard?id=calc2020)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=calc2020&metric=ncloc)](https://sonarcloud.io/dashboard?id=calc2020)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=calc2020&metric=security_rating)](https://sonarcloud.io/dashboard?id=calc2020)
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=calc2020&metric=sqale_index)](https://sonarcloud.io/dashboard?id=calc2020)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=calc2020&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=calc2020)
 
 Implementation of a Simple Calculator with the next operations:
 
