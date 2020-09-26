@@ -6,4 +6,5 @@ language: node_js
 	addons:
 	  sonarcloud: true
 	script:
-		  - sonar-scanner -Dsonar.login=$SONAR_TOKEN -Dsonar.organization=dbotia-github -Dsonar.projectKey=calc2020 -Dsonar.sources='./app' -X
+      
+    - sonar-scanner -Dsonar.login=$SONAR_TOKEN -Dsonar.organization=dbotia-github -Dsonar.projectKey=calc2020 -Dsonar.sources='./app' -X
