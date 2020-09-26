@@ -7,6 +7,7 @@ Travis:  [![Build Status](https://travis-ci.org/dbotia/calc2020.svg?branch=maste
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=calc2020&metric=security_rating)](https://sonarcloud.io/dashboard?id=calc2020)
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=calc2020&metric=sqale_index)](https://sonarcloud.io/dashboard?id=calc2020)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=calc2020&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=calc2020)
+[![Coverage Status](https://coveralls.io/repos/github/dbotia/calc2020/badge.svg?branch=master)](https://coveralls.io/github/dbotia/calc2020?branch=master)
 
 Implementation of a Simple Calculator with the next operations:
 
